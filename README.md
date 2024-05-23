@@ -12,7 +12,7 @@
 
 
  #  Veja a página aqui:
- [Veja-o aqui!](https://lista-de-tarefas-topaz-three.vercel.app/)
+ [Veja-o aqui!](https://studio-ghibli-card.vercel.app/)
    
 ## Tecnologias Aprendidas:
  - HTML.
