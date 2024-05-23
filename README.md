@@ -4,11 +4,15 @@
    
  - Projeto construído com base em um tutorial do Youtube.
 
- - Projeto feito durante o curso PROPROFISSÃO do Instituto PROA
+ - Projeto feito durante o curso PROPROFISSÃO do Instituto PROA.
    
-## Veja a página aqui
+## vídeo do youtube:
 
- [Clique aqui para acessar!] https://www.youtube.com/watch?v=Ws8C1ZwFJ2Q 
+ [Clique aqui para acesar!](https://www.youtube.com/watch?v=Ws8C1ZwFJ2Q)
+
+
+ #  Veja a página aqui:
+ [Veja-o aqui!](https://lista-de-tarefas-topaz-three.vercel.app/)
    
 ## Tecnologias Aprendidas:
  - HTML.
